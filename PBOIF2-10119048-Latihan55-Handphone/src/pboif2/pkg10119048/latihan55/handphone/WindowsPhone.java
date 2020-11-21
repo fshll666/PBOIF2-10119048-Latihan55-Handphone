@@ -8,6 +8,10 @@ package pboif2.pkg10119048.latihan55.handphone;
 /**
  *
  * @author SystemOs
+ * Nama      : Mochammad Faishal
+ * NIM       : 10119048
+ * Kelas     : IF2
+ * Deskripsi : Berisi Program Windows phone
  */
 public class WindowsPhone extends Handphone{
     private String wpKeyStore;
